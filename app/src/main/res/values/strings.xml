@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerHiltAndroid</string>
+    <string name="name">Name from String resources</string>
+</resources>
